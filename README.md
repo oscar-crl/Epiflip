@@ -10,6 +10,10 @@ To start the docker:
  docker-compose up
  ```
  
+ ## API Documentation
+ Get the documentation and the collection in postman:
+ https://documenter.getpostman.com/view/9050862/TzCLApDe
+ 
  ## Stacks used
  Server: **Node JS**
  
