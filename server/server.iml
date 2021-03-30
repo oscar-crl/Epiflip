@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="@types/express" level="application" />
+    <orderEntry type="library" name="@types/bcryptjs" level="application" />
+    <orderEntry type="library" name="@types/nodemailer" level="application" />
+    <orderEntry type="library" name="@types/twit" level="application" />
+    <orderEntry type="library" name="@types/express-session" level="application" />
+    <orderEntry type="library" name="@types/lodash" level="application" />
+    <orderEntry type="library" name="@types/twitter" level="application" />
+  </component>
+</module>
